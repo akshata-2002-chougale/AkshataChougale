@@ -1,5 +1,7 @@
 # Screening Test - TANDEMLOOP
 
+This repository contains solutions to the 4 basic programming problems given in the first screening round for the Full Stack Developer role at TANDEMLOOP.
+
 **Name:** Akshata Chougale  
 **Language Used:** Java
 
